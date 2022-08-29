@@ -27,8 +27,8 @@ Group Number:
 4
 
 Group Members:
-%------- Name Shafin Mahmud Jalal
-%------- Name Md. Rezuwan Hassan
+21266017 Name Shafin Mahmud Jalal
+21266014 Name Md. Rezuwan Hassan
 21266037 Name Rudaida Tasin
 21273001 Name Masum Uddin Ahmed
 22173003 Name S. M. Niaz Morshed
